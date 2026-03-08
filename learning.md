@@ -15,6 +15,9 @@ https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/
 Introducing: Postgres Best Practices
 https://supabase.com/blog/postgres-best-practices-for-ai-agents
 
+The Modern Data Architecture Mastery Series: Relational to Document Model
+https://www.mongodb.com/resources/products/capabilities/webinar-relational-document-model?utm_campaign=int_wb_webinar+-+sharding+strategies_01_26_am&utm_source=marketo&utm_medium=email&utm_content=Int_WB_Webinar+-+Sharding+Strategies_01_26_AM_email_1_01_08&mkt_tok=MTQ5LUNCSi0xMzYAAAGfPSNK5NAQDb7ECffUdHGfo84e7b4i7PxenyXTWHlZ7Y0Pmu4Bz05T0coZ-KhLyVGBTRlL8GrY46L9yQuqlXdukG01bMfmV_d_0O06Y2PFZBAtrw
+
 Courses to consider:
 
 Anthropic Academy
@@ -32,3 +35,8 @@ https://huggingface.co/datasets/google/mobile-actions
 AI Learning Hub: MongoDB
 https://www.mongodb.com/resources/use-cases/artificial-intelligence?utm_campaign=ai_learning_hub&utm_source=github&utm_medium=referral
 
+Google AI Studio
+https://aistudio.google.com/
+
+Cerebral Valley Events
+https://cerebralvalley.ai/events
